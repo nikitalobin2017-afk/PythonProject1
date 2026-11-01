@@ -1,3 +1,3 @@
 # This is a sample Python script.
-print("Git изучаю с нуля!")
+print("Изменение из ветки A")
 print("Проверяю Staging Area!")
