@@ -4,3 +4,4 @@ print("Изменение из ветки A")
 
 print("Изменение из ветки B")
 print("Проверяю Staging Area!")
+print("Изучаю Pull Request!")
